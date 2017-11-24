@@ -28,6 +28,6 @@ Data is from the March Supplement of the U.S. Current Population Survey, year 20
 * The outcome Y is hourly wage, and X are various characteristics of workers.
 
 ## The notebook
-[Linear Regression.ipynb](https://github.com/aless80/PredictingWages_EnsembleMethods/blob/master/Prediction%20Wages-Ensemble%20Methods.ipynb)
+[Linear Regression.ipynb](https://github.com/aless80/PredictWages_EnsembleMethods/blob/master/Prediction%20Wages-Ensemble%20Methods.ipynb)
 
 ---

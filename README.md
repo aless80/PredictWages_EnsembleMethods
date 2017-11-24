@@ -5,7 +5,7 @@ Python implementation of a case study in Module 2 of the MITProfessionalX course
 The case study is: "Module 2 Case Study - Regression and prediction". This case study is about using ensemble methods in R on wages data.
 
 ## Points of interest
-The analysis is relatively simple (linear regression), but it might be interesting to see how to do it using the two libraries, [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) and [patsy](https://patsy.readthedocs.io/en/latest/#).
+Use different prediction methods (linear model, lasso, cross-validated lasso, random forest, Ridge, cross-validated Ridge, Elastic net, cross-validated Elastic net) and combine them using Ensemble method. using adjusted MSE and R^2 , and out-of-sample MSE and R^2. [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html).
 
 ---
 
@@ -15,7 +15,7 @@ Our goals are:
 
 1) Predict wages using various characteristics of workers.
 
-2) Assess the predictive performance of different methods (linear model, lasso, cross-validated lasso, random forest, Ridge, cross-validated Ridge, Elastic net, cross-validated Elastic net) and combine them using Ensemble method. using adjusted MSE and R^2 , and out-of-sample MSE and R^2.
+2) Assess the predictive performance of different methods (linear model, lasso, cross-validated lasso, random forest, Ridge, cross-validated Ridge, Elastic net, cross-validated Elastic net) and combine them using Ensemble method.
 
 ## The data
 
@@ -28,6 +28,6 @@ Data is from the March Supplement of the U.S. Current Population Survey, year 20
 * The outcome Y is hourly wage, and X are various characteristics of workers.
 
 ## The notebook
-[Linear Regression.ipynb](https://github.com/aless80/PredictingWages_Regression/blob/master/Linear%20Regression.ipynb)
+[Linear Regression.ipynb](https://github.com/aless80/PredictingWages_EnsembleMethods/blob/master/Prediction%20Wages-Ensemble%20Methods.ipynb)
 
 ---

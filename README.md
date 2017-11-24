@@ -21,12 +21,6 @@ Our goals are:
 
 Data is from the March Supplement of the U.S. Current Population Survey, year 2012.
 
-* Focus on the single (never married) workers with education levels equal to high-school, some college, or college graduates.
-
-* The sample is of size n ≈ 4,000.
-
-* The outcome Y is hourly wage, and X are various characteristics of workers.
-
 ## The notebook
 [Linear Regression.ipynb](https://github.com/aless80/PredictWages_EnsembleMethods/blob/master/Prediction%20Wages-Ensemble%20Methods.ipynb)
 

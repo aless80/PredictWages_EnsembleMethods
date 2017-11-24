@@ -5,7 +5,7 @@ Python implementation of a case study in Module 2 of the MITProfessionalX course
 The case study is: "Module 2 Case Study - Regression and prediction". This case study is about using ensemble methods in R on wages data.
 
 ## Points of interest
-Use different prediction methods (linear model, lasso, cross-validated lasso, random forest, Ridge, cross-validated Ridge, Elastic net, cross-validated Elastic net) and combine them using Ensemble method. using adjusted MSE and R^2 , and out-of-sample MSE and R^2. [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html).
+Use different prediction methods (linear model, lasso, cross-validated lasso, random forest, Ridge, cross-validated Ridge, Elastic net, cross-validated Elastic net) and combine them using Ensemble method. Refer to [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html).
 
 ---
 
